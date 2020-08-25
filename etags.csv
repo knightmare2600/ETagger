@@ -1,0 +1,10 @@
+## CSV file with product, ETAG and build. Copied with no shame from SHADOWBROKERS leak of EQGRP tools
+## ETags all correlated manually though. To add: curl --etag-save - https://webapp.example.com | head -n1
+# Product,ETag,Build Number
+3CX PBX,58bc06c5-363,15.0.62928.5
+3CX PBX,5f0cce7e-368,16.0.6.584
+3CX PBX,1005ea7bfde-2ae,16.0.612
+3CX PBX,5f27e5ae-2ae,16.0.5.622
+Acronis VMProtect,1841088321,9.2.10535
+Acronis VMProtect,-1239865353,9.2.10571
+Acronis VMProtect,-266693695,9.2.10593
